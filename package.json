@@ -1,0 +1,17 @@
+{
+  "name": "exo-tp-yellow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./yellow-sass/style$/main.scss:./yellow-sass/style$/main.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.52.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
